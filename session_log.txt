@@ -1,0 +1,101 @@
+Script started on 2026-10-13 21:39:50+05:00 [TERM="dumb" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+aliyan@aliyan-VirtualBox:~$ pwd
+/home/aliyan
+aliyan@aliyan-VirtualBox:~$ li s
+Alam	 Documents  Music     Public	 Videos	     session_log.txt
+Desktop	 Downloads  Pictures  Templates	 myfile.txt  snap
+aliyan@aliyan-VirtualBox:~$ usr
+Command 'usr' not found, did you mean:
+  command 'ssr' from deb soundscaperenderer-common (0.6.1+dfsg-3build1)
+  command 'psr' from deb python3-semantic-release (10.5.3-1)
+  command 'csr' from deb rheolef (7.2-7build1)
+  command 'sur' from deb subtle (0.11.3224-xi-3)
+  command 'sr' from deb surfraw (2.3.0-2build1)
+  command 'ur' from deb libur-perl (0.470+ds-3)
+Try: sudo apt install <deb name>
+aliyan@aliyan-VirtualBox:~$ sudo apt insat  tall <e deb name>
+bash: syntax error near unexpected token `newline'
+aliyan@aliyan-VirtualBox:~$ ls ~
+Alam	 Documents  Music     Public	 Videos	     session_log.txt
+Desktop	 Downloads  Pictures  Templates	 myfile.txt  snap
+aliyan@aliyan-VirtualBox:~$ cd G Desktop
+aliyan@aliyan-VirtualBox:~/Desktop$ cd  /home/me/Documenst  ts
+bash: cd/home/me/Documents: No such file or directory
+aliyan@aliyan-VirtualBox:~/Desktop$                                                                                                                    aliyan@aliyan-VirtualBox:~/Desktop$ cdd    ..
+aliyan@aliyan-VirtualBox:~$ mkdir alam
+aliyan@aliyan-VirtualBox:~$ ls
+Alam	 Documents  Music     Public	 Videos	 myfile.txt	  snap
+Desktop	 Downloads  Pictures  Templates	 alam	 session_log.txt
+aliyan@aliyan-VirtualBox:~$ mkdir khan sheikh 
+aliyan@aliyan-VirtualBox:~$ ls
+Alam	 Documents  Music     Public	 Videos	 khan	     session_log.txt  snap
+Desktop	 Downloads  Pictures  Templates	 alam	 myfile.txt  sheikh
+aliyan@aliyan-VirtualBox:~$ mv items ... directory
+mv: target 'directory': No such file or directory
+aliyan@aliyan-VirtualBox:~$ rmdir
+error: the following required arguments were not provided:
+  <dirs>...
+
+Usage: rmdir [OPTION]... DIRECTORY...
+
+For more information, try '--help'.
+aliyan@aliyan-VirtualBox:~$ ls
+Alam	 Documents  Music     Public	 Videos	 khan	     session_log.txt  snap
+Desktop	 Downloads  Pictures  Templates	 alam	 myfile.txt  sheikh
+aliyan@aliyan-VirtualBox:~$ rmdir sheikh
+aliyan@aliyan-VirtualBox:~$ ls
+Alam	 Documents  Music     Public	 Videos	 khan	     session_log.txt
+Desktop	 Downloads  Pictures  Templates	 alam	 myfile.txt  snap
+aliyan@aliyan-VirtualBox:~$                                                                                                                            aliyan@aliyan-VirtualBox:~$                                                                                                                    aliyan@aliyan-VirtualBox:~$ mv alam ALa  lam
+aliyan@aliyan-VirtualBox:~$ ls
+Alam	 Documents  Music     Public	 Videos	 myfile.txt	  snap
+Desktop	 Downloads  Pictures  Templates	 khan	 session_log.txt
+aliyan@aliyan-VirtualBox:~$ cd aa  Alam
+aliyan@aliyan-VirtualBox:~/Alam$ ls
+alam
+aliyan@aliyan-VirtualBox:~/Alam$ cdd  ..
+aliyan@aliyan-VirtualBox:~$ touch KHAN
+aliyan@aliyan-VirtualBox:~$ cat . > > KHan  An N
+i ma    am aliyan alam and i am from l kky  ts , and boir     orn in q Quettq aD aliyan@aliyan-VirtualBox:~$ 
+aliyan@aliyan-VirtualBox:~$ gedit KHAN
+
+** (gedit:13444): [1;33mWARNING[0m **: [34m21:59:55.153[0m: Could not load Peas repository: Typelib file for namespace 'Peas', version '1.0' not found
+
+** (gedit:13444): [1;33mWARNING[0m **: [34m21:59:55.153[0m: Could not load PeasGtk repository: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+(gedit:13444): libgedit-gtksourceview-[1;33mWARNING[0m **: [34m21:59:56.166[0m: Failed to load style scheme file '/usr/share/libgedit-gtksourceview-300/styles/Yaru.xml': Error on line 3 char 1: attribute 'version' invalid for element 'style-scheme'
+
+(gedit:13444): libgedit-gtksourceview-[1;33mWARNING[0m **: [34m21:59:56.167[0m: Failed to load style scheme file '/usr/share/libgedit-gtksourceview-300/styles/Yaru-dark.xml': Error on line 3 char 1: attribute 'version' invalid for element 'style-scheme'
+aliyan@aliyan-VirtualBox:~$ gedit KHANcat > KHANgedit KHAN
+
+** (gedit:13652): [1;33mWARNING[0m **: [34m22:00:51.681[0m: Could not load Peas repository: Typelib file for namespace 'Peas', version '1.0' not found
+
+** (gedit:13652): [1;33mWARNING[0m **: [34m22:00:51.681[0m: Could not load PeasGtk repository: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+(gedit:13652): libgedit-gtksourceview-[1;33mWARNING[0m **: [34m22:00:52.203[0m: Failed to load style scheme file '/usr/share/libgedit-gtksourceview-300/styles/Yaru.xml': Error on line 3 char 1: attribute 'version' invalid for element 'style-scheme'
+
+(gedit:13652): libgedit-gtksourceview-[1;33mWARNING[0m **: [34m22:00:52.203[0m: Failed to load style scheme file '/usr/share/libgedit-gtksourceview-300/styles/Yaru-dark.xml': Error on line 3 char 1: attribute 'version' invalid for element 'style-scheme'
+aliyan@aliyan-VirtualBox:~$ cat  KHAN
+i am aliyan alam and i am from kts and born in Quetta.i want to became a network engineer.
+aliyan@aliyan-VirtualBox:~$ less    
+aliyan@aliyan-VirtualBox:~$ cat  KHANgedit KHAN
+
+** (gedit:13926): [1;33mWARNING[0m **: [34m22:04:50.645[0m: Could not load Peas repository: Typelib file for namespace 'Peas', version '1.0' not found
+
+** (gedit:13926): [1;33mWARNING[0m **: [34m22:04:50.645[0m: Could not load PeasGtk repository: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+(gedit:13926): libgedit-gtksourceview-[1;33mWARNING[0m **: [34m22:04:51.716[0m: Failed to load style scheme file '/usr/share/libgedit-gtksourceview-300/styles/Yaru.xml': Error on line 3 char 1: attribute 'version' invalid for element 'style-scheme'
+
+(gedit:13926): libgedit-gtksourceview-[1;33mWARNING[0m **: [34m22:04:51.717[0m: Failed to load style scheme file '/usr/share/libgedit-gtksourceview-300/styles/Yaru-dark.xml': Error on line 3 char 1: attribute 'version' invalid for element 'style-scheme'
+aliyan@aliyan-VirtualBox:~$ gedit KHANcat  KHAN 
+i am aliyan alam and i am from kts and born in Quetta.i want to became a network engineer.
+aliyan@aliyan-VirtualBox:~$ cat >> KHAN
+aaaaaa      hello 
+aliyan@aliyan-VirtualBox:~$ cat >> KHAN
+aliyan@aliyan-VirtualBox:~$ cat >> KHAN KHAN  
+i am aliyan alam and i am from kts and born in Quetta.i want to became a network engineer.
+hello 
+aliyan@aliyan-VirtualBox:~$ exit
+exit
+
+Script done on 2026-10-13 22:10:41+05:00 [COMMAND_EXIT_CODE="0"]
