@@ -1,0 +1,48 @@
+Script started on 2026-10-14 15:01:32+05:00 [TERM="dumb" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+aliyan@aliyan-VirtualBox:~$ mkdir F@$  24-o 0505 9
+aliyan@aliyan-VirtualBox:~$ ex cho "I am practing about Lu ini  nux commans ds: ". > F24-05< echo "I am practing about Linux commands"> F24-050                         9/Aliyan
+aliyan@aliyan-VirtualBox:~$ ls F24-5 0509
+Aliyan
+aliyan@aliyan-VirtualBox:~$ cat F24-0509/Aliyan
+I am practing about Linux commands
+aliyan@aliyan-VirtualBox:~$ ls -l I     cat F24-0509/Aliyanls F24-0509        cat F24-0509/Aliyan               F24-0509/Aliyanls F24-0509        cat F24-0509/Aliyan
+I am practing about Linux commands
+aliyan@aliyan-VirtualBox:~$ ls -l F24-0509  /Aliyab n > info.txt
+aliyan@aliyan-VirtualBox:~$ cat info.txt
+-rw-rw-r-- 1 aliyan aliyan 35 Oct 14 15:06 F24-0509/Aliyan
+aliyan@aliyan-VirtualBox:~$ ls
+Alam	   Downloads  Music	Templates  khan	       session_log.txt
+Desktop	   F24-0509   Pictures	Videos	   lab_work    snap
+Documents  KHAN	      Public	info.txt   myfile.txt
+aliyan@aliyan-VirtualBox:~$ cd info.txt
+bash: cd: info.txt: Not a directory
+aliyan@aliyan-VirtualBox:~$ cd ~? /destopestop Destopaliyan@aliyan-VirtualBox:~$ cd ~/Dealiyan@aliyan-VirtualBox:~$ cd ~/Deskstopstop aliyan@aliyan-VirtualBox:~$ cd ~/Desktop
+aliyan@aliyan-VirtualBox:~/Desktop$ BSCS-A
+BSCS-A: command not found
+aliyan@aliyan-VirtualBox:~/Desktop$ mv MSCS    BSCS-A LinuxLab
+mv: cannot stat 'BSCS-A': No such file or directory
+aliyan@aliyan-VirtualBox:~/Desktop$ mv BSCS-A LinuxLab                  mr  cd ..
+aliyan@aliyan-VirtualBox:~$ mkdir BSCS-A
+aliyan@aliyan-VirtualBox:~$ mvkdir BSCS-Acd ..       mkdir BSCS-Acd ..       mv BSCS-A LinuxLab
+aliyan@aliyan-VirtualBox:~$ cp ~/F24-0509/Aliyan ~/Desktop/linuxLAb  ab/
+cp: cannot create regular file '/home/aliyan/Desktop/linuxLab/': Not a directory
+aliyan@aliyan-VirtualBox:~$ ls linuxLA ab
+ls: cannot access 'linuxLab': No such file or directory
+aliyan@aliyan-VirtualBox:~$ cd Desktp op
+aliyan@aliyan-VirtualBox:~/Desktop$ cdd\   ..
+aliyan@aliyan-VirtualBox:~$ getd  dit info.txt
+
+** (gedit:4489): [1;33mWARNING[0m **: [34m15:25:52.593[0m: Could not load Peas repository: Typelib file for namespace 'Peas', version '1.0' not found
+
+** (gedit:4489): [1;33mWARNING[0m **: [34m15:25:52.594[0m: Could not load PeasGtk repository: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+(gedit:4489): libgedit-gtksourceview-[1;33mWARNING[0m **: [34m15:25:53.591[0m: Failed to load style scheme file '/usr/share/libgedit-gtksourceview-300/styles/Yaru.xml': Error on line 3 char 1: attribute 'version' invalid for element 'style-scheme'
+
+(gedit:4489): libgedit-gtksourceview-[1;33mWARNING[0m **: [34m15:25:53.592[0m: Failed to load style scheme file '/usr/share/libgedit-gtksourceview-300/styles/Yaru-dark.xml': Error on line 3 char 1: attribute 'version' invalid for element 'style-scheme'
+aliyan@aliyan-VirtualBox:~$ cat info.tc xt
+-rw-rw-r-- 1 aliyan aliyan 35 Oct 14 15:06 F24-0509/Aliyan
+aliyan@aliyan-VirtualBox:~$ clear
+aliyan@aliyan-VirtualBox:~$ exit
+exit
+
+Script done on 2026-10-14 15:29:35+05:00 [COMMAND_EXIT_CODE="1"]
